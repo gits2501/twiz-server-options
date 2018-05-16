@@ -1,0 +1,17 @@
+{
+  "name": "twiz-server-options",
+  "version": "1.0.0",
+  "description": " Makes request options out or user sent parameters",
+  "main": "src/Options.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gits2501",
+  "license": "MIT",
+  "dependencies": {
+    "twiz-client-utils": "file:../../../testing/TwizClientWithBroserify/dependencies/twiz-client-utils"
+  }
+}
